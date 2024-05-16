@@ -1,4 +1,7 @@
 EXP.NO: 06 
+
+DATE: 30/04/2024
+
 SIMULATE AND SYNTHESIS INVERTER USING CADENCE
 
 AIM:  To Simulate and Synthesis Inverter using CADENCE
